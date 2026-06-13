@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://imjuliuschen.github.io/sitemap-index.xml
-Host: https://imjuliuschen.github.io
+
+Sitemap: https://imjuliuschen.github.io/sitemap.xml
